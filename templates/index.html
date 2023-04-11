@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
+    <title>clean day</title>
+</head>
+<body>
+    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 60px; align-content: center;">
+        <div id="cleaner-container">
+            {% for plan in plans %}
+                <div onclick="update(this)" id="{{ plan.id }}"  class="{{ plan.color }}">
+                    <p style="font-weight: 600;">{{ plan.cleaner }}</p>
+                    <p style="text-transform: capitalize;">{{ plan.color }}</p>
+                    <p>{{ plan.day }}</p>
+                    <p>{{ plan.date }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        <div style="height:40vh; width:80vw; margin-top: 50px; display: flex; justify-content: center;"><canvas id="acquisitions"></canvas></div>
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
+<script>
+    const ctx = document.getElementById('acquisitions');
+    
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Abdurrahman', 'Adnan'],
+        datasets: [{
+          label: 'Cleaned',
+          data: [Number("{{ ab.clean }}"), Number("{{ ad.clean }}")],
+          borderWidth: 1,
+          backgroundColor: "#00ff00"
+        },
+        {
+          label: 'Not Cleaned',
+          data: [Number("{{ ab.unclean }}"), Number("{{ ad.unclean }}")],
+          borderWidth: 1,
+          backgroundColor: "rgb(255, 128, 111)"
+        },
+        {
+          label: 'Total',
+          data: [Number("{{ ab.total }}"), Number("{{ ad.total }}")],
+          borderWidth: 1,
+          backgroundColor: "rgb(111, 212, 255)"
+        },
+        {
+          label: 'Ratio',
+          data: [Number("{{ ab.ratio }}"), Number("{{ ad.ratio }}")],
+          borderWidth: 2,
+          backgroundColor: "gold"
+        }]
+    },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+</html>
