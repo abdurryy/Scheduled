@@ -795,8 +795,7 @@
         "id": 100,
         "cleaner": "(Adnan)",
         "date": "8-6-2023",
-,
-      "day": "Thursday",
+        "day": "Thursday",
         "cleaned": false,
         "person_id": 1
     },
