@@ -652,16 +652,16 @@
         "cleaner": "Adnan",
         "date": "21-5-2023",
         "day": "Sunday",
-        "cleaned": false,
+        "cleaned": true,
         "person_id": 1
     },
     {
         "id": 83,
-        "cleaner": "Adnan",
+        "cleaner": "Abdurrahman",
         "date": "22-5-2023",
         "day": "Monday",
-        "cleaned": true,
-        "person_id": 1
+        "cleaned": false,
+        "person_id": 0
     },
     {
         "id": 84,
@@ -673,7 +673,7 @@
     },
     {
         "id": 85,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "24-5-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -681,7 +681,7 @@
     },
     {
         "id": 86,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "25-5-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -689,7 +689,7 @@
     },
     {
         "id": 87,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "26-5-2023",
         "day": "Friday",
         "cleaned": false,
@@ -697,7 +697,7 @@
     },
     {
         "id": 88,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "27-5-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -705,7 +705,7 @@
     },
     {
         "id": 89,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "28-5-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -713,7 +713,7 @@
     },
     {
         "id": 90,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "29-5-2023",
         "day": "Monday",
         "cleaned": false,
@@ -721,63 +721,63 @@
     },
     {
         "id": 91,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "30-5-2023",
         "day": "Tuesday",
-        "cleaned": false,
+        "cleaned": true,
         "person_id": 0
     },
     {
         "id": 92,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "31-5-2023",
         "day": "Wednesday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 93,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "1-6-2023",
         "day": "Thursday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 94,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "2-6-2023",
         "day": "Friday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 95,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "3-6-2023",
         "day": "Saturday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 96,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "4-6-2023",
         "day": "Sunday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 97,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "5-6-2023",
         "day": "Monday",
-        "cleaned": false,
-        "person_id": 0
+        "cleaned": true,
+        "person_id": 1
     },
     {
         "id": 98,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "6-6-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -785,31 +785,31 @@
     },
     {
         "id": 99,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "7-6-2023",
         "day": "Wednesday",
-        "cleaned": false,
+        "cleaned": true,
         "person_id": 0
     },
     {
         "id": 100,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "8-6-2023",
         "day": "Thursday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 101,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "9-6-2023",
         "day": "Friday",
-        "cleaned": false,
-        "person_id": 0
+        "cleaned": true,
+        "person_id": 1
     },
     {
         "id": 102,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "10-6-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -817,7 +817,7 @@
     },
     {
         "id": 103,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "11-6-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -825,7 +825,7 @@
     },
     {
         "id": 104,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "12-6-2023",
         "day": "Monday",
         "cleaned": false,
@@ -833,7 +833,7 @@
     },
     {
         "id": 105,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "13-6-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -841,7 +841,7 @@
     },
     {
         "id": 106,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "14-6-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -849,7 +849,7 @@
     },
     {
         "id": 107,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "15-6-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -857,7 +857,7 @@
     },
     {
         "id": 108,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "16-6-2023",
         "day": "Friday",
         "cleaned": false,
@@ -865,39 +865,39 @@
     },
     {
         "id": 109,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "17-6-2023",
         "day": "Saturday",
-        "cleaned": false,
+        "cleaned": true,
         "person_id": 0
     },
     {
         "id": 110,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "18-6-2023",
         "day": "Sunday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 111,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "19-6-2023",
         "day": "Monday",
         "cleaned": false,
-        "person_id": 0
+        "person_id": 1
     },
     {
         "id": 112,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Adnan",
         "date": "20-6-2023",
         "day": "Tuesday",
-        "cleaned": false,
-        "person_id": 0
+        "cleaned": true,
+        "person_id": 1
     },
     {
         "id": 113,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "21-6-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -905,7 +905,7 @@
     },
     {
         "id": 114,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "22-6-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -913,7 +913,7 @@
     },
     {
         "id": 115,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "23-6-2023",
         "day": "Friday",
         "cleaned": false,
@@ -921,7 +921,7 @@
     },
     {
         "id": 116,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "24-6-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -929,7 +929,7 @@
     },
     {
         "id": 117,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "25-6-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -937,7 +937,7 @@
     },
     {
         "id": 118,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "26-6-2023",
         "day": "Monday",
         "cleaned": false,
@@ -945,7 +945,7 @@
     },
     {
         "id": 119,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "27-6-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -953,7 +953,7 @@
     },
     {
         "id": 120,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "28-6-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -961,7 +961,7 @@
     },
     {
         "id": 121,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "29-6-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -969,7 +969,7 @@
     },
     {
         "id": 122,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "30-6-2023",
         "day": "Friday",
         "cleaned": false,
@@ -977,7 +977,7 @@
     },
     {
         "id": 123,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "1-7-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -985,7 +985,7 @@
     },
     {
         "id": 124,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "2-7-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -993,7 +993,7 @@
     },
     {
         "id": 125,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "3-7-2023",
         "day": "Monday",
         "cleaned": false,
@@ -1001,7 +1001,7 @@
     },
     {
         "id": 126,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "4-7-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "id": 127,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "5-7-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -1017,7 +1017,7 @@
     },
     {
         "id": 128,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "6-7-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -1025,7 +1025,7 @@
     },
     {
         "id": 129,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "7-7-2023",
         "day": "Friday",
         "cleaned": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "id": 130,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "8-7-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -1041,7 +1041,7 @@
     },
     {
         "id": 131,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "9-7-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -1049,7 +1049,7 @@
     },
     {
         "id": 132,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "10-7-2023",
         "day": "Monday",
         "cleaned": false,
@@ -1057,7 +1057,7 @@
     },
     {
         "id": 133,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "11-7-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -1065,7 +1065,7 @@
     },
     {
         "id": 134,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "12-7-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -1073,7 +1073,7 @@
     },
     {
         "id": 135,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "13-7-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -1081,7 +1081,7 @@
     },
     {
         "id": 136,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "14-7-2023",
         "day": "Friday",
         "cleaned": false,
@@ -1089,7 +1089,7 @@
     },
     {
         "id": 137,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "15-7-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -1097,7 +1097,7 @@
     },
     {
         "id": 138,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "16-7-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -1105,7 +1105,7 @@
     },
     {
         "id": 139,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "17-7-2023",
         "day": "Monday",
         "cleaned": false,
@@ -1113,7 +1113,7 @@
     },
     {
         "id": 140,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "18-7-2023",
         "day": "Tuesday",
         "cleaned": false,
@@ -1121,7 +1121,7 @@
     },
     {
         "id": 141,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "19-7-2023",
         "day": "Wednesday",
         "cleaned": false,
@@ -1129,7 +1129,7 @@
     },
     {
         "id": 142,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "20-7-2023",
         "day": "Thursday",
         "cleaned": false,
@@ -1137,7 +1137,7 @@
     },
     {
         "id": 143,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "21-7-2023",
         "day": "Friday",
         "cleaned": false,
@@ -1145,7 +1145,7 @@
     },
     {
         "id": 144,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "22-7-2023",
         "day": "Saturday",
         "cleaned": false,
@@ -1153,7 +1153,7 @@
     },
     {
         "id": 145,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "23-7-2023",
         "day": "Sunday",
         "cleaned": false,
@@ -1161,7 +1161,7 @@
     },
     {
         "id": 146,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "24-7-2023",
         "day": "Monday",
         "cleaned": false,
@@ -1169,7 +1169,7 @@
     },
     {
         "id": 147,
-        "cleaner": "(Abdurrahman)",
+        "cleaner": "Abdurrahman",
         "date": "25-7-2023",
         "day": "Tuesday",
         "cleaned": false,
